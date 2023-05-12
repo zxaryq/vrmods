@@ -1,9 +1,9 @@
 # vrmods
-Chad Manager is a Manager for Pc And Quest It comes with A Bunch Of Quality of Life Improvements to the game
+vr mod Manager is a Manager for Pc And Quest It comes with A Bunch Of Quality of Life Improvements to the game
 
-To start using Chad Manager:
+To start using vr mod Manager:
 
-Step 1: go to releases and download the most up-to-date version (google and windows defender will say its a virus this is purely a false positive)
+Step 1: go to releases and download the most up-to-date version ( google and windows defender might say its a virus this is purely a false positive and u could scan it on virustool)
 
 Step 2: once downloaded extract to your desired location then open the application (some times you have to delete the config otherwise it wont launch)
 
